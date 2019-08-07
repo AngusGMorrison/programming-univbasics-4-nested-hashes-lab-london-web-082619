@@ -124,4 +124,5 @@ def adding_to_dennis
         }
      }
 
+  return programmer_hash[:dennis_ritchie][:known_for] << "Assembly"
 end
