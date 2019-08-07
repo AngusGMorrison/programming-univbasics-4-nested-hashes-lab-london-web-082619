@@ -124,5 +124,5 @@ def adding_to_dennis
         }
      }
 
-  return programmer_hash[:dennis_ritchie][:known_for].to_a << "Assembly"
+  return programmer_hash[:dennis_ritchie][:language] << "Assembly"
 end
